@@ -6,6 +6,10 @@
     "author": {
         "name": ""
     },
+    "scripts":
+    {
+        "hello-world": "hello-world"
+    },
     "dependencies": {
         "module-a": "file:../module-A"
     }
