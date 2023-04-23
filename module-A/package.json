@@ -1,0 +1,12 @@
+{
+    "name": "module-a",
+    "version": "1.0.0",
+    "description": "module-a",
+    "main": "main.js",
+    "bin": {
+        "hello-world": "main.js"
+    },
+    "author": {
+        "name": ""
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "module-b",
+    "version": "1.0.0",
+    "description": "module-b",
+    "main": "main.js",
+    "author": {
+        "name": ""
+    },
+    "dependencies": {
+        "module-a": "file:../module-A"
+    }
+}
